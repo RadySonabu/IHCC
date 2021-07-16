@@ -1,0 +1,6 @@
+[submodule "astra-IHCC"]
+	path = astra-IHCC
+	url = https://github.com/paolotiu/astra-IHCC
+[submodule "BuyerSeller"]
+	path = BuyerSeller
+	url = https://github.com/RadySonabu/BuyerSeller
